@@ -1,0 +1,1 @@
+docker build -t apache-doris:3.0.4-fe .
